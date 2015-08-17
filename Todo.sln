@@ -7,13 +7,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Api", "Todo.Api\Todo.A
 EndProject
 Project("{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}") = "Todo.App", "Todo.App\Todo.App.iceproj", "{23D0F0D0-2054-4051-8A9F-9E0DF5D87FC3}"
 EndProject
-Project("{A81B4A23-AF18-4B01-8944-84D6FB3D4B47}") = "TodoPro.App", "TodoPro.App\TodoPro.App.iceproj", "{0637D1F9-F4EA-4EED-B413-0B81A654F7A6}"
+Project("{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}") = "TodoPro.App", "TodoPro.App\TodoPro.App.iceproj", "{0637D1F9-F4EA-4EED-B413-0B81A654F7A6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{A788228F-1B74-4C30-8EB1-3DC1BE677AA3}"
 	ProjectSection(SolutionItems) = preProject
 		.nuget\NuGet.Config = .nuget\NuGet.Config
 		.nuget\NuGet.exe = .nuget\NuGet.exe
 		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA7ECC65-8ECA-4E67-AEA1-D82DA1035865}"
+	ProjectSection(SolutionItems) = preProject
+		README = README
 	EndProjectSection
 EndProject
 Global
